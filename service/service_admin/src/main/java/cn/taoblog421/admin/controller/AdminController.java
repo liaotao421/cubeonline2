@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * <p>
- *  前端控制器
+ *  前端控制器 111
  * </p>
  *
  * @author liaotao
@@ -18,6 +18,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/admin/")
 public class AdminController {
-    
+
 }
 
